@@ -34,7 +34,7 @@ install_requires = [
     'docopt >= 0.6.1, < 0.7',
     'PyYAML >= 3.10, < 4.3',
     'requests >= 2.6.1, != 2.11.0, != 2.12.2, != 2.18.0, < 2.21',
-    'texttable >= 0.9.0, < 0.10',
+    'texttable >= 0.9.0',
     'websocket-client >= 0.32.0, < 1.0',
     'docker[ssh] >= 3.7.0, < 4.0',
     'dockerpty >= 0.4.1, < 0.5',
